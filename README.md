@@ -40,8 +40,20 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Tech Proficiency & Stats
 
+### 🔥 Skill Proficiency
+| Tech Stack | Level | Description |
+| :--- | :---: | :--- |
+| **Java** | 🟢🟢🟢🟢⚪ | 객체 지향 기반의 백엔드 아키텍처 설계 및 비즈니스 로직 구현 |
+| **Google Apps Script** | 🟢🟢🟢🟢🟢 | 사내 인프라(배차, 자산, 업무 일지) 자동화 및 맞춤형 웹앱 개발 |
+| **JavaScript** | 🟢🟢🟢⚪⚪ | 다중 페이지 웹사이트의 동적 기능 구현 및 DOM 제어 |
+| **HTML / CSS** | 🟢🟢🟢⚪⚪ | 웹 표준을 준수하는 구조 설계 및 Vercel 환경 배포 |
+| **Database (Neon)** | 🟢🟢⚪⚪⚪ | RDBMS 기본 설계 및 쿼리 최적화 |
+
+<br>
+
+### 🏆 Most Used Languages
 <div align="center">
-  <img src="https://ghchart.rshah.org/2196F3/yang960920" alt="yang960920's Github chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang960920&layout=donut&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" />
 </div>
