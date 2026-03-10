@@ -22,29 +22,26 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Backend & Language
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Google Apps Script-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://developers.google.com/apps-script" target="_blank"><img src="https://img.shields.io/badge/Google Apps Script-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 
 ### 🌍 Frontend & Deployment
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
+<a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 ### 🗄️ Database
-<img src="https://img.shields.io/badge/Neon DB-00E599?style=for-the-badge&logo=neon&logoColor=black">
+<a href="https://neon.tech/" target="_blank"><img src="https://img.shields.io/badge/Neon DB-00E599?style=for-the-badge&logo=neon&logoColor=black"></a>
 
 ### 🤝 Collaboration
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yang960920&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang960920&layout=compact&theme=tokyonight"/>
-</div>
-
-<br>
-
-<div align="center">
-  <i>항상 배우고, 배운 것을 나누며 함께 성장하는 개발자가 되겠습니다. ☕</i>
+  <img src="https://ghchart.rshah.org/2196F3/yang960920" alt="yang960920's Github chart" />
 </div>
